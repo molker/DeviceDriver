@@ -1,5 +1,5 @@
 # DeviceDriver
-Linux Device Driver
+Linux Device Driver for the High Point University Operating Systems class
 
 Tutorial for setting up and running a simple device driver as a base for further operating system customization. This driver will include the ability to read and write from the driver. For the best results, use the files provided in the repository. 
 
